@@ -1,6 +1,6 @@
 # Movie Picker Telegram Bot
 
-This is a simple Telegram bot I made to make it easier to choose movies to watch
+Ever had to do pick a movie from a list to watch with friends? Well, here is a simple Telegram bot I made to make it easier
 
 The bot has 2 main commands
 1. **/choose**
